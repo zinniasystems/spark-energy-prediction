@@ -1,0 +1,5 @@
+/target
+/.idea
+*.iml
+/results
+/src/main/resources/household_power_consumption.txt
