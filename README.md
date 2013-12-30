@@ -1,4 +1,4 @@
-Predicting energy consumption using Scala
+Predicting energy consumption using Scala and Spark
 ==========
 
 Predict the global energy demand for next year using the energy usage data available for last four years, in order to enable utility companies effectively handle the energy demand.
